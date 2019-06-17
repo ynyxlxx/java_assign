@@ -57,7 +57,7 @@ public class RunLengthCode
         // test data
         String msg1 = "000000101111101000000000010";
         String msg2 = "1111111111110111111111111000111111111111111111111111011111111111111";
-        String rleMsg1 = "OO6IOII5OIOO10I";
+        String rleMsg1 = "OO6IOII5OIOO10IO";
         String rleMsg2 = "II12OII12OO3II24OII14";
 
         test(1, msg1, rleMsg1);
