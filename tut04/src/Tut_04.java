@@ -1,5 +1,4 @@
-// Student name: lyu xiaoxi
-// Student ID  : 55544909
+
 
 // Submission deadline: Tuesday, 2 July 2019, 4 pm
 
