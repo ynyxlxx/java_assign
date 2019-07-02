@@ -1,5 +1,4 @@
-// Student name: lyu xiaoxi
-// Student ID  : 55544909
+
 
 /*
     Submission deadline: Friday, 21 June 2019, 4 pm. Upload your Java file to canvas.
